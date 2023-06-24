@@ -1,0 +1,84 @@
+ul.admincp_list {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+body {
+ background-image: url("https://tophinhanhdep.com/wp-content/uploads/2021/10/White-Paper-Desktop-Wallpapers.jpg");
+ background-color: #cccccc;
+}
+img {
+    border-radius: 40px;
+}
+ul.admincp_list li {
+    float: left;
+    margin-left: 30px;
+    background-color: #b0b042;
+    border-radius: 10px;
+}
+table {
+    background-color: #898e24;
+    border-radius: 10px;
+}
+.clear {
+    clear: both;
+}
+h3.tittle_admin {
+    text-align: center;
+    font-size: 40px;
+    color: #8B4513;
+}
+.container{
+        
+width: 100%;
+        
+height: 1000px;
+        
+margin:0 auto;
+        
+/* background-color: white; */
+        
+margin-top: 25px;
+}
+a {
+    
+    font-style: unset;
+    text-decoration: none;
+}
+a.sighout {
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 0px;
+    /* border: 0px solid grey; */
+    background-color: #b0b042;
+    border-radius: 10px;
+}
+
+ul.admincp_list {
+    height: 40px;
+    /* background-color: white; */
+    padding-left: 287px;
+    margin-top: 0px;
+    /* border: 1px solid black; */
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0d0649;
+    font-size: 19px;
+}
+
+.main {
+    /* border: 1px solid white; */
+    /* background-color: white; */
+}
+
+p {
+    color: #01003d;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    height: 40px;
+    /* border-bottom: 1px solid black; */
+}
